@@ -13,9 +13,9 @@ from neo4j_graphrag.llm import OpenAILLM
 # CONFIG
 # =========================================================
 
-NEO4J_URI = "bolt+ssc://7b053b5c.databases.neo4j.io"
-NEO4J_USER = "neo4j"
-NEO4J_PASSWORD = "ksC9hrbgmB73zh4y60m9FWs95EH-W1SgmpLUNocYl_o"
+NEO4J_URI = ""
+NEO4J_USER = ""
+NEO4J_PASSWORD = ""
 
 # Change with Claude as per Need basis
 GROQ_MODEL = ""
