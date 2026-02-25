@@ -1,4 +1,3 @@
-This README is designed for a professional architect's portfolio. It covers the technical stack you've built: **LangGraph**, **Neo4j**, and a **FastAPI** A2A (Agent-to-Agent) layer, with a **Streamlit** frontend for human interaction.
 
 ---
 
