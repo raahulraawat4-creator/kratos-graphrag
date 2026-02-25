@@ -103,4 +103,3 @@ The agent operates in a four-stage cycle:
 
 ---
 
-Would you like me to help you generate the **`requirements.txt`** file based on the libraries we've used?
